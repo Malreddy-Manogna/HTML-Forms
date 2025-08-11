@@ -1,1 +1,2 @@
 # HTML-Forms
+This repository showcases a registration form project built with HTML and styled using CSS, demonstrating a clean and user-friendly design. Alongside the main form folder, there is also a basic HTML form example without styling to highlight the raw structure, and a backend script that processes the submitted form data. Together, these files provide a complete example of creating, styling, and handling form inputs in a web application.
